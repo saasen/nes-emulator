@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cpu.6502", "Cpu.6502\Cpu.6502.csproj", "{503F4AB8-A5C4-4D4A-A0A6-6FB61A6449CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NES.Bus", "NES.Bus\NES.Bus.csproj", "{2EFC2239-2991-48DD-BABC-1DF9B1113085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503F4AB8-A5C4-4D4A-A0A6-6FB61A6449CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503F4AB8-A5C4-4D4A-A0A6-6FB61A6449CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503F4AB8-A5C4-4D4A-A0A6-6FB61A6449CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503F4AB8-A5C4-4D4A-A0A6-6FB61A6449CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFC2239-2991-48DD-BABC-1DF9B1113085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFC2239-2991-48DD-BABC-1DF9B1113085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFC2239-2991-48DD-BABC-1DF9B1113085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFC2239-2991-48DD-BABC-1DF9B1113085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
